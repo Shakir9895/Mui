@@ -6,7 +6,7 @@ const options = [
   { label: 'ASSETS', type: 'heading' },
   { label: 'Receivables', type: 'subheading' },
   { label: 'Bank and cash', type: 'subheading' },
-  { label: 'Subheading3', type: 'subheading' },
+  { label: 'Subheading15', type: 'subheading' },
   { label: 'Subheading10', type: 'subheading' },
   { label: 'Heading B', type: 'heading' },
   { label: 'Subheading4', type: 'subheading' },
